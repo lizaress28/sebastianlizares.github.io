@@ -9,11 +9,7 @@ redirect_from:
 
 Welcome to Sebastian Lizares' personal academic portfolio.
 
-In this Website you will find multiple pieces of information about myself and Interests.
-
-I am currently a Sophomore attending Virginia Tech.
-
-I study Computer Engineering and am interested in software and programming.
+I am currently a Sophomore in Virginia Tech, studying Computer Engineering with the interest in Software and Programming
 
 Information:
 School Email: lizaress28@vt.edu
